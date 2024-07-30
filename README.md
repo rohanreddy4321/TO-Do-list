@@ -43,7 +43,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/rohanreddy4321/todo-list-app.git
 cd todo-list-app
 Install dependencies:
 
@@ -53,12 +53,3 @@ npm install
 Set up the database:
 Make sure you have MongoDB installed and running. You can configure the connection string in the .env file.
 
-Start the application:
-
-sh
-Copy code
-npm start
-Open your browser and go to http://localhost:3000 to see the app in action!
-
-Conclusion
-I hope this To-Do List application helps you stay organized and on top of your tasks. If you have any questions or feedback, feel free to reach out. Happy task managing!# TO-Do-list
